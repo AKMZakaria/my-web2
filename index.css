@@ -1,0 +1,20 @@
+h1{
+    font-size: large;
+    font-weight: bold;
+    color:blueviolet;
+    text-align: center;
+
+}
+p{
+    margin-block: 0.5em;
+    text-align: center;
+
+}
+img{
+    border: 10px solid rgb(45, 183, 164);
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 300px;
+    border-radius: 20px;
+}
